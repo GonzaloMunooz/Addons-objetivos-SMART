@@ -9,7 +9,7 @@ Decisiones de diseño:
 
 Como instalar el Addon:
 1. Ejecutar el script
-2. Introducir el .obj que deseas usar
+2. Introducir el .obj que deseas usar (he subido el que yo he usado)
 3. Cambiar los parametros que prefieras
 4. Renombrar el conjunto de arboles (Importante: los arboles estan agrupados en el explorador por objetos vacios)
 5. Opcional utilizar el boton de origen del objeto -> origen del mundo
